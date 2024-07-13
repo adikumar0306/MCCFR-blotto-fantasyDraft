@@ -1,2 +1,2 @@
-# MCCFR-blotto-fantasyDraft
-implementation of monte-carlo counterfactual regret minimization on blotto and fantasy football draft pick allocation
+# MCTS-ABP-minimax-chess
+MCTS and Alpha-Beta pruning algorithms to evaluate and select optimal moves in given chess position 
